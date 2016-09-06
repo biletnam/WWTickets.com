@@ -1,0 +1,6 @@
+                                                    <option value="Windows"<? if($jobProduct == 'Windows') echo ' selected="selected"'; ?>>Windows</option>
+                                                    <option value="Siding"<? if($jobProduct == 'Siding') echo ' selected="selected"'; ?>>Siding</option>
+                                                    <option value="Doors"<? if($jobProduct == 'Doors') echo ' selected="selected"'; ?>>Doors</option>
+                                                    <option value="Window &amp; Door Repair"<? if($jobProduct == 'Window &amp; Door Repair') echo ' selected="selected"'; ?>>Window &amp; Door Repair</option>
+                                                    <option value="Siding Repair"<? if($jobProduct == 'Siding Repair') echo ' selected="selected"'; ?>>Siding Repair</option>
+                                                    <option value="Solar Zone Attic"<? if($jobProduct == 'Solar Zone Attic') echo ' selected="selected"'; ?>>Solar Zone & Attic</option>

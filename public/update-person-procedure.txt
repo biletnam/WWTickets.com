@@ -1,0 +1,6 @@
+index.php
+tickets/form/detail-mod.php
+tickets/form/updt-ticket-status.php
+
+UPDATE ticketTask SET taskEmp = REPLACE (taskEmp, 'Hailey', 'Jolene');
+UPDATE customerTickets SET ticketAssign = REPLACE (ticketAssign, 'Hailey', 'Jolene');

@@ -1,0 +1,17 @@
+body { border-width: 0; }
+#top-nav, #col-2, #slideshow, #header blockquote, #footer ul, #PPGS, .print { display: none; }
+#page-shell { width: 100%; }
+nav{display:none;}
+
+#logo, #logo a { width: 100%; height: auto; font-size: 24px; text-indent: 0; background: none; float: none; }
+#logo a { text-decoration: none; }
+#header { border-bottom: 1px solid #ccc; }
+#col-1 { width: 100%; margin: 0 !important; padding: 0 !important; }
+table{width:100%!important;}
+#dashboard-icons{display: none;}
+#customer-task{display: none;}
+#personal-task{display: none;}
+table:first-child tr td:first-child {width:30px!important; }
+
+
+#footer { border-top: 1px solid #ccc; padding: 1px 0; }
